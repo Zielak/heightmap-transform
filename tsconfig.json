@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "lib": [
+      "es6",
+      "es2016"
+    ],
+    "moduleResolution": "node",
+    "outDir": "lib",
+    "sourceMap": true,
+    "target": "esnext"
+  }
+}
